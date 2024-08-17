@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed ElKhair</h1>
 <h3 align="center">A Self-Taught Frontend Developer with Dedication, 
 Quick Learning, and Collaborative Spirit, 
-from Morocco</h3>
+ <br>from Morocco</h3>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" data-target="animated-image.originalLink"><img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
